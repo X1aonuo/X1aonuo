@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm X1aonuo</h1>
-<h3 align="center">A OIer and passionate frontend developer and CTFerfrom China</h3>
+<h3 align="center">A OIer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x1aonuo&label=Profile%20views&color=0e75b6&style=flat" alt="x1aonuo" /> </p>
 
